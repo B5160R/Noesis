@@ -1,0 +1,14 @@
+{
+  "name": "noesis",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4",
+    "vite-plugin-string": "^1.2.3"
+  }
+}
