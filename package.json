@@ -8,6 +8,7 @@
     "three": "^0.178.0"
   },
   "devDependencies": {
+    "@parcel/transformer-glsl": "^2.15.4",
     "vite": "^7.0.4",
     "vite-plugin-string": "^1.2.3"
   }
